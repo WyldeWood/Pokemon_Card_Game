@@ -1,0 +1,9 @@
+Junho:
+Design Check: 1h45m
+Implementation: 29h20m
+
+Andy:
+Design Check: 2h 00m
+Implementation: 40h
+
+The hours include time spent alone and time spent with partner.
